@@ -1,0 +1,1 @@
+var TestReactDOMServer = require('react-dom/server');
