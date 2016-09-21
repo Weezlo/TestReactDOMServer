@@ -1,3 +1,4 @@
+var TestReactDOMServer =
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
@@ -44,9 +45,7 @@
 /* 0 */
 /***/ function(module, exports, __webpack_require__) {
 
-	var TestReactDOMServer = __webpack_require__(1);
-
-	module.exports = {TestReactDOMServer};
+	module.exports = __webpack_require__(1);
 
 /***/ },
 /* 1 */

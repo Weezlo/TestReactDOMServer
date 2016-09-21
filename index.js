@@ -1,3 +1,1 @@
-var TestReactDOMServer = require('react-dom/server');
-
-module.exports = {TestReactDOMServer};
+module.exports = require('react-dom/server');
